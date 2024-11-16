@@ -1,0 +1,22 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+
+# Jupyter Notebook checkpoints
+.ipynb
+
+# Data files
+*.h5  # Model files
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# IDE specific files
+.vscode/
